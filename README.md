@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rikirenz
+- 👀 I’m interested in algorithms and code challengings
+- 🌱 I’m currently learning maths for machine learning
+- 📫 How to reach me: riccardo.candido@gmail.com

@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rikirenz
 - 👀 I’m interested in algorithms and code 
-- 🌱 I’m currently learning maths for machine learning
+- 🌱 I’m currently learning deep learning from [@jph00](https://github.com/jph00) 📹 course ([link](https://www.youtube.com/@howardjeremyp)) 
 - 📫 How to reach me: riccardo.candido@gmail.com
